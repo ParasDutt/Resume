@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ParasDutt/Resume/static/css/main.e98eca55.css",
-    "main.js": "/ParasDutt/Resume/static/js/main.c7b27386.js",
-    "static/js/703.afca951d.chunk.js": "/ParasDutt/Resume/static/js/703.afca951d.chunk.js",
-    "static/js/598.d318085d.chunk.js": "/ParasDutt/Resume/static/js/598.d318085d.chunk.js",
-    "static/js/787.61b62c3a.chunk.js": "/ParasDutt/Resume/static/js/787.61b62c3a.chunk.js",
-    "static/media/T2.png": "/ParasDutt/Resume/static/media/T2.a2351d039cc1920affca.png",
-    "static/media/T3.png": "/ParasDutt/Resume/static/media/T3.861e80164f0125b2dcf9.png",
-    "static/media/T1.png": "/ParasDutt/Resume/static/media/T1.d828df46066e93166e80.png",
-    "static/media/T4.png": "/ParasDutt/Resume/static/media/T4.981aedc83e95e64ec6c6.png",
-    "static/media/aboutCV.jpg": "/ParasDutt/Resume/static/media/aboutCV.dd655c959eb91a827e82.jpg",
-    "index.html": "/ParasDutt/Resume/index.html",
-    "main.e98eca55.css.map": "/ParasDutt/Resume/static/css/main.e98eca55.css.map",
-    "main.c7b27386.js.map": "/ParasDutt/Resume/static/js/main.c7b27386.js.map",
-    "703.afca951d.chunk.js.map": "/ParasDutt/Resume/static/js/703.afca951d.chunk.js.map",
-    "598.d318085d.chunk.js.map": "/ParasDutt/Resume/static/js/598.d318085d.chunk.js.map",
-    "787.61b62c3a.chunk.js.map": "/ParasDutt/Resume/static/js/787.61b62c3a.chunk.js.map"
+    "main.css": "/Resume/static/css/main.e98eca55.css",
+    "main.js": "/Resume/static/js/main.342f486e.js",
+    "static/js/703.afca951d.chunk.js": "/Resume/static/js/703.afca951d.chunk.js",
+    "static/js/598.d318085d.chunk.js": "/Resume/static/js/598.d318085d.chunk.js",
+    "static/js/787.61b62c3a.chunk.js": "/Resume/static/js/787.61b62c3a.chunk.js",
+    "static/media/T2.png": "/Resume/static/media/T2.a2351d039cc1920affca.png",
+    "static/media/T3.png": "/Resume/static/media/T3.861e80164f0125b2dcf9.png",
+    "static/media/T1.png": "/Resume/static/media/T1.d828df46066e93166e80.png",
+    "static/media/T4.png": "/Resume/static/media/T4.981aedc83e95e64ec6c6.png",
+    "static/media/aboutCV.jpg": "/Resume/static/media/aboutCV.dd655c959eb91a827e82.jpg",
+    "index.html": "/Resume/index.html",
+    "main.e98eca55.css.map": "/Resume/static/css/main.e98eca55.css.map",
+    "main.342f486e.js.map": "/Resume/static/js/main.342f486e.js.map",
+    "703.afca951d.chunk.js.map": "/Resume/static/js/703.afca951d.chunk.js.map",
+    "598.d318085d.chunk.js.map": "/Resume/static/js/598.d318085d.chunk.js.map",
+    "787.61b62c3a.chunk.js.map": "/Resume/static/js/787.61b62c3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e98eca55.css",
-    "static/js/main.c7b27386.js"
+    "static/js/main.342f486e.js"
   ]
 }
